@@ -3,4 +3,4 @@
 Projeto para estudos
 
 ````
-npm install react
+NODE app.js
